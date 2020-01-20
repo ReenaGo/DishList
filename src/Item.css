@@ -1,0 +1,25 @@
+.items {
+    display: inline-block;
+    margin: 0;
+}
+
+.ingredients {
+    margin: 0;
+}
+
+.buttonDiv {
+    vertical-align: center;
+    display: inline-block;
+    margin-left: 1vw;
+}
+
+ol {
+    padding: 0
+}
+.itemsDiv {
+    display: inline-block;
+
+}
+.itemButtonContainer {
+
+}

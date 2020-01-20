@@ -1,0 +1,8 @@
+.listAppContainer {
+    display: inline-block;
+    border-style: solid;
+    margin-top: 2em;
+    padding: 2em;
+    border-width: 1px;
+
+}
